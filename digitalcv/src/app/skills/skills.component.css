@@ -1,0 +1,23 @@
+.navbar {
+    font-size:xx-large;
+    font-style:italic;
+    margin-left:750px;
+    font-weight:bold;
+
+}
+.badge {
+    background-color:rgb(234, 244, 244);
+    color:black;
+    margin-left: 100px;
+    padding:20px 70px;
+    font-size:x-large;
+}
+.image-background {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url("https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
